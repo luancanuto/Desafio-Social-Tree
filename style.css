@@ -1,30 +1,28 @@
 * {
     margin: 0;
     padding: 0;
-    /* background: #E5E5E5; */
-    
 }
-#link-instagram{
+
+#link-instagram {
     text-decoration: none;
     color: #BB99DD;
 }
 
-body{
+body {
     height: 100%;
     width: 100%;
     background: #E5E5E5;
 }
 
-.container{
+.container {
     width: 100vw;
     height: 100vh;
     display: flex;
     align-items: center;
     justify-content: center;
-    
 }
 
-.informacoes{
+.informacoes {
     font-family: 'Poppins', sans-serif;
     display: flex;
     align-items: center;
@@ -57,12 +55,12 @@ button {
     cursor: pointer;
 }
 
-a{
+a {
     text-decoration: none;
     color: #BB99DD;
 }
 
-.icons{
+.icons {
     display: flex;
     margin: 30px;
     gap: 29px;
