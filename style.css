@@ -21,6 +21,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
+    
 }
 
 .informacoes{
@@ -34,10 +35,8 @@ body{
 .perfil {
     width: 200px;
     height: 200px;
-   /*  box-shadow: inset 0 -50px 20px -20px white; */
     border: 2px solid #BB99DD;
     border-radius: 360px;
-    box-sizing: border-box;
     padding: 5px;
 }
 
@@ -55,6 +54,7 @@ button {
     align-items: center;
     justify-content: center;
     padding: 5px;
+    cursor: pointer;
 }
 
 a{
